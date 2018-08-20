@@ -114,7 +114,9 @@ url: http://host:port/car_wash/v1/user/{id}
 
 #### Response
 
+```
 {"success":true,"msg":"","obj":null}
+```
 
 ### 充值
 
